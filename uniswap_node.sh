@@ -26,7 +26,7 @@ ICON_WALLLET="🔐"
 # ----------------------------
 display_header() {
     clear
-    echo -e "    ${RED}    W I N G S   N O D E   T E A M ${RESET}"
+    echo -e "    ${RED}    W I N G S  N O D E   T E A M ${RESET}"
     echo -e "    ${GREEN}                                              ${RESET}"
     echo -e "    ${BLUE}    ${RESET}"
     echo -e "    ${YELLOW}   ${RESET}"
